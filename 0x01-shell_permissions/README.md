@@ -1,1 +1,1 @@
-# I Hate alx and the Linux Terminal
+# I wrote a bunch of shell scripts mainly to handle shell permissions.
